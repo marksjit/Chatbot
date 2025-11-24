@@ -1,0 +1,150 @@
+[
+  {
+    "question": "What is this about?",
+    "answer": "I'm here to answer questions and help with information."
+  },
+  {
+    "question": "How does this chatbot work?",
+    "answer": "You ask a question, and I try to match it with the closest FAQ."
+  },
+  {
+    "question": "What if I type something wrong?",
+    "answer": "No problem, I can usually figure out what you meant."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click the reset link on the login page and follow the instructions."
+  },
+  {
+    "question": "Where can I contact support?",
+    "answer": "You can contact support at support@mtechsolutionsto.com."
+  },
+  {
+    "question": "How do I update my profile information?",
+    "answer": "Go to your account settings and edit your profile details."
+  },
+  {
+    "question": "How do I change my email address?",
+    "answer": "Open account settings and update your email in the contact section."
+  },
+  {
+    "question": "How do I change my username?",
+    "answer": "Usernames can be changed once every 30 days in your profile settings."
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "Visit the account settings page and select 'Delete Account' at the bottom."
+  },
+  {
+    "question": "Can I recover a deleted account?",
+    "answer": "Deleted accounts can be recovered within 14 days by contacting support."
+  },
+  {
+    "question": "How do I enable two-factor authentication?",
+    "answer": "Go to Security Settings and enable 2FA using your authenticator app."
+  },
+  {
+    "question": "Why am I not receiving emails?",
+    "answer": "Check your spam folder and make sure notifications are enabled."
+  },
+  {
+    "question": "How do I change my notification settings?",
+    "answer": "You can manage notifications from the Notifications tab in settings."
+  },
+  {
+    "question": "How do I update my phone number?",
+    "answer": "Go to your profile and select 'Edit Phone Number'."
+  },
+  {
+    "question": "Can I download my data?",
+    "answer": "Yes, you can request a data export from the Privacy Settings page."
+  },
+  {
+    "question": "How do I contact sales?",
+    "answer": "You can reach our sales team at sales@example.com."
+  },
+  {
+    "question": "Where can I find pricing information?",
+    "answer": "Pricing details are available on the Pricing page on our website."
+  },
+  {
+    "question": "Do you offer refunds?",
+    "answer": "Refunds may be available depending on the subscription type. Contact support."
+  },
+  {
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription from the Billing section in your account."
+  },
+  {
+    "question": "Why was my payment declined?",
+    "answer": "Please check with your bank or update your payment method."
+  },
+  {
+    "question": "How do I update my payment method?",
+    "answer": "Go to Billing Settings and add or modify your payment information."
+  },
+  {
+    "question": "Why can't I log in?",
+    "answer": "Make sure you're using the correct email and password. Try resetting your password."
+  },
+  {
+    "question": "How do I change my password?",
+    "answer": "Navigate to Security Settings and choose 'Change Password'."
+  },
+  {
+    "question": "What browsers do you support?",
+    "answer": "We support the latest versions of Chrome, Edge, Safari, and Firefox."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, we use industry-standard encryption and security practices."
+  },
+  {
+    "question": "Do you store my payment details?",
+    "answer": "We do not store payment details; they are handled securely by our provider."
+  },
+  {
+    "question": "How do I report a bug?",
+    "answer": "Please email bugs@mtechsolutionsto.com or contact support."
+  },
+  {
+    "question": "Where can I view system status?",
+    "answer": "Check our system status page at status.mtechsolutionsto.com."
+  },
+  {
+    "question": "What happens during maintenance?",
+    "answer": "Some features may be temporarily unavailable, but downtime is minimal."
+  },
+  {
+    "question": "Can I use the service on mobile?",
+    "answer": "Yes, our platform supports all major mobile devices."
+  },
+  {
+    "question": "Do you have a mobile app?",
+    "answer": "Our mobile app is available on both iOS and Android."
+  },
+  {
+    "question": "How do I update the mobile app?",
+    "answer": "Visit your device's app store and check for updates."
+  },
+  {
+    "question": "Why is the app crashing?",
+    "answer": "Try reinstalling the app or restarting your device."
+  },
+  {
+    "question": "How do I clear my cache?",
+    "answer": "You can clear cache from your browser settings under Privacy."
+  },
+  {
+    "question": "Can I use multiple accounts?",
+    "answer": "You can switch between accounts using the profile switcher."
+  },
+  {
+    "question": "How do I invite team members?",
+    "answer": "Go to the meetings tab in the application and send invitations via email."
+  },
+  {
+    "question": "What permissions do team roles have?",
+    "answer": "Each team role has different access levels listed in the Roles section."
+  }
+]
