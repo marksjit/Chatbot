@@ -1,8 +1,6 @@
 # FAQ Chatbot (C# / ASP.NET Core / Azure)
 
-## A lightweight and customizable FAQ chatbot built with ASP.NET Core. It uses keyword matching and cosine similarity to return accurate answers and includes a modern chat interface.
-
-## What This Project Does
+A lightweight and customizable FAQ chatbot built with ASP.NET Core. It uses keyword matching and cosine similarity to return accurate answers and includes a modern chat interface.
 
 ## This project implements a smart FAQ chatbot that:
 
