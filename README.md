@@ -22,7 +22,7 @@ The bot processes user messages through several stages:
 + Runs multi-layered matching (Keyword scoring, Cosine similarity, Single-word fallback)
 + Generates “Did you mean?” suggestions
 + Uses a default fallback message when nothing matches
-+ FAQs are stored in FAQs.json for easy editing.
++ FAQs are stored in FAQs.json for easy editing
 
 ## API Layer (ChatController.cs)
 The backend exposes a single POST endpoint: POST /api/chat
